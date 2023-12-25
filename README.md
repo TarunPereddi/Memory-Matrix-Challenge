@@ -4,23 +4,12 @@ Memory Matrix Challenge is a user-friendly game designed to test and enhance mem
 
 ## How to Play
 
-1. **Start Game:**
    - Click "Start Game" to begin.
-
-2. **Memorize & Repeat:**
    - Memorize the highlighted squares.
    - Click them in the same order.
-
-3. **Level Up:**
    - Successfully repeat the sequence to level up.
-
-4. **Game Over on Mistake:**
    - A mistake ends the game.
-
-5. **Restart:**
    - Click "Restart" to play again.
-
-6. **Score Tracking:**
    - Your score increases with each level.
 
 Enjoy the Memory Matrix Challenge!
