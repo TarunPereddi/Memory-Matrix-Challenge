@@ -2,6 +2,11 @@
 
 Memory Matrix Challenge is a user-friendly game designed to test and enhance memory skills. This project is particularly geared towards beginners who are eager to make their first contributions to open source and kickstart their journey into web development.
 
+## Play the Game
+
+Play the Memory Matrix Challenge now on Netlify: [Memory Matrix Challenge](<mmc-game.netlify.app>)
+
+
 ## How to Play
 
    - Click "Start Game" to begin.
