@@ -4,7 +4,7 @@ Memory Matrix Challenge is a user-friendly game designed to test and enhance mem
 
 ## Play the Game
 
-Play the Memory Matrix Challenge now on Netlify: [Memory Matrix Challenge](<https://mmc-game.netlify.app/>)
+Play the Memory Matrix Challenge now on Netlify: [Memory Matrix Challenge](<https://memory-matrix-challenge.vercel.app/>)
 
 
 ## How to Play
