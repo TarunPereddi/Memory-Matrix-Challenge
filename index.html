@@ -1,26 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <!-- Title of the webpage -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Memory Matrix Challenge</title>
-    <!-- Link to the external CSS file for styling -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body>
-    <!-- Main heading of the game -->
-    <h1>Memory Matrix Challenge</h1>
-    <!-- Level information, also serves as the start game prompt -->
-    <p id="level">Start Game</p>
-    <!-- Container for the game board -->
-    <div id="game-board"></div>
-    <!-- Display area for the current score and high score -->
-    <p>Score: <span id="score">0</span> High Score: <span id="high-score">0</span></p>
-    <!-- Game over message and restart button, shown when the game ends -->
-    <div id="game-over">
-        <p>Game Over!</p>
-        <button id="restart">Restart</button>
+<body class="bg-gray-800 text-white font-sans">
+    <div class="container mx-auto p-8">
+        <h1 class="text-3xl font-semibold mb-6">Memory Matrix Challenge</h1>
+        <p id="level" class="text-xl mb-4 cursor-pointer">Start Game</p>
+        <div id="game-board" class="flex flex-wrap justify-center mb-8"></div>
+        <p class="text-lg mb-2">Score: <span id="score" class="font-bold">0</span> High Score: <span id="high-score" class="font-bold">0</span></p>
+        <div id="game-over" class="hidden">
+            <p class="text-xl mb-4">Game Over!</p>
+            <button id="restart" class="btn">Restart</button>
+        </div>
     </div>
-    <!-- Link to the external JavaScript file for functionality -->
     <script src="script.js"></script>
 </body>
 </html>
